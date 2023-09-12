@@ -1,4 +1,4 @@
-<h1 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=008000&width=435&lines=Self-improvement+is+a+lifelong+process.;%E5%B0%8F%E6%9D%A8%E5%90%8C%E5%AD%A6%E7%A5%9D%E6%82%A8%E4%BB%8A%E5%A4%A9%E7%94%9F%E6%B4%BB%E6%84%89%E5%BF%AB%EF%BC%81&center=true&size=27" alt="Typing SVG" /></a> </h1>
+<h1 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=008000&width=435&lines=Self-improvement+is+a+lifelong+process.;%E5%B0%8F%E6%9D%A8%E5%90%8C%E5%AD%A6%E7%A5%9D%E6%82%A8%E4%BB%8A%E5%A4%A9%E7%94%9F%E6%B4%BB%E6%84%89%E5%BF%AB%EF%BC%81" alt="Typing SVG" /></a> </h1>
 
 <!--
 **yangxin1999/yangxin1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
